@@ -1,6 +1,6 @@
 <odoo>
   <data>
-    <!-- explicit list view definition -->
+    <!-- explicit list view definition t -->
 <!--
     <record model="ir.ui.view" id="iut_device.list">
       <field name="name">iut_device list</field>
